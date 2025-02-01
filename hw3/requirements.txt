@@ -1,0 +1,8 @@
+numpy==1.23.5
+tqdm==4.66.5
+torch==2.0.0
+transformers==4.44.2
+miditok==3.0.4
+midi2audio==0.1.1
+museval==0.4.1
+miditoolkit==1.0.1
