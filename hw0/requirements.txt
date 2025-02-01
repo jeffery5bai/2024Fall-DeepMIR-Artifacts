@@ -1,0 +1,12 @@
+typing
+datetime
+pickle
+numpy<2.0
+tqdm
+pandas
+matplotlib
+librosa
+seaborn
+scikit-learn==1.5.2
+torch==2.0.0
+torchaudio==2.0.1 -f https://download.pytorch.org/whl/torch_stable.html
