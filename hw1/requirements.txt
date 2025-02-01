@@ -1,0 +1,11 @@
+numpy<2.0
+pandas
+tqdm
+matplotlib
+seaborn
+torch==2.0.0
+sklearn==1.5.2
+transformers==4.44.2
+pretty_midi==0.2.10
+soundfile
+librosa
