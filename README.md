@@ -1,5 +1,5 @@
 # 2024-Fall-DeepMIR-Artifacts
-> *This is a school final project and homeworks to learn music analysis and generation using DL-based methodologies.*
+> *These are the school final project and homeworks to learn music analysis and generation using DL-based methodologies.*
 
 ## Overview
 ### GuitarJam
